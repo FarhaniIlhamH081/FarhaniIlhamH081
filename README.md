@@ -2,10 +2,7 @@
 # Hi, I'm Farhani Ilham Hidayatullah 👋
 ## 💫About Me :
 Berkuliah di Program Studi Informatika, Universitas Bengkulu.
-Punya Ketertarikan di dunia Programming.
-Sekarang tengah mempelajari framework Laravel.
-Membuat berbagai macam proyek di bidang IT.
-Juga aktif membuat konten kreatif di Instagram dan Youtube.
+Bengkulu Province HIV AIDS Ambassador.
 
 ## Gist Account
 https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
