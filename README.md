@@ -4,8 +4,7 @@
 Berkuliah di Program Studi Informatika, Universitas Bengkulu.
 Bengkulu Province HIV AIDS Ambassador.
 
-## Gist Account
-https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
+Salam Pemuda, Sehat dan Berprestasi!
 
 
 # 📊GitHub Stats :
